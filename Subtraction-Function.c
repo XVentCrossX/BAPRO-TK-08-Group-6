@@ -3,9 +3,9 @@
 int main() {
     float a, b, difference;
     
-    printf("Enter the first number (a): ");
+    printf("Enter the first number : ");
     scanf("%f", &a);
-    printf("Enter the second number (b): ");
+    printf("Enter the second number : ");
     scanf("%f", &b);
 
     difference = a - b;
