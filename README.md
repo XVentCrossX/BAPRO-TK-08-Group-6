@@ -6,4 +6,4 @@
 # Contributions:
 # Lando : Make a repository and invite team members as collaborators, Make Addition and Subtraction branchs and functions in c
 # Evandra :
-# Hafizh :
+# Hafizh : Create Multiplication branch and functions in c
