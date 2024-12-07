@@ -1,1 +1,5 @@
-# BAPRO-TK-08-Group-6
+# BAPRO-TK-08-Group-
+
+# Contribution:
+
+# Lando : Created Addition branch and add Addition-Function
